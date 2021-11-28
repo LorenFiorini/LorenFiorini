@@ -6,10 +6,14 @@
   
   Contact me on [LinkedIn](https://www.linkedin.com/in/lorenfiorini/)  💼
 
+
+## ⚙️ Hackathon
+  - [AR Helmet](https://lorenfiorini.github.io/LikeABosch-WebApp/#/)  — In the Craft #LikeABosch hackathon I proposed the concept of an Augmented Reality Motorcycle Helmet with this Web Application. You will find the pitch deck in the [repository](https://github.com/LorenFiorini/Craft-LikeABosch). 
+
 ## ⚙️ Projects
   - [Personal WebApp](https://lorenfiorini.github.io/#/) — This will be my personal web page 
   - [MeetUp](https://fir-amazing-web-codelab.firebaseapp.com/) — A real-time online ChatRoom with user authentication
-  - [Shrine](https://lorenfiorini.github.io/Shrine-WebApp/) — A WebApp that simulates an e-commerce
+  - [Shrine](https://lorenfiorini.github.io/Shrine-WebApp/) — A Web Application that simulates an online retail store.
 
 ## 👨🏽‍💻 Competitive programming
 
