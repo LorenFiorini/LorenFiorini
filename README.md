@@ -8,6 +8,10 @@
 
 
 ## ⚙️ Hackathons
+  - [**TIER Experiences**](https://crafthack2022.netlify.app/)
+    - We expanded the TIER App with a new feature for guided tours.
+    - TIER Challenge of the *CraftHack 2022*.
+    - You can find the repository [here](https://github.com/LorenFiorini/CraftHack-2022).
   - [**Meditation App**](https://lorenfiorini.github.io/meditation_app/)
     - To help Ukranian refugees be mentally prepared to deal with the issues associated with being displaced. 
     - Body & Mind topic of the *Hack&Heal hybrid hackathon 2022*. 
