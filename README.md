@@ -1,13 +1,15 @@
 # 👋🏼 Oh, hi there!
 
-  Welcome to my GitHub profile! 😄
+  Welcome to my GitHub profile! 😄 
   
-  I am Lorenzo, a BSc in Mathematics student. I enjoy competing in programming contests. I'm currently learning how to write Smart Contracts using Solidity.
+  My name is Lorenzo (he/him). I'm a Software Engineer Student @ 42 Heilbronn. 
+  I enjoy competing in Hackathons and other Software Development competitions.
+  Currently, I'm learning how to write Smart Contracts using Solidity. I'm also exploring the possibilities and limitations of GPT-3 and DALL-E to create aesthetic artwork.
   
   Contact me on [**LinkedIn**](https://www.linkedin.com/in/lorenfiorini/)  💼
 
 
-## ⚙️ Hackathons
+## ⚙️ Hackathons 
   - [**TIER Experiences**](https://crafthack2022.netlify.app/)
     - We expanded the TIER App with a new feature for guided tours.
     - TIER Challenge of the *CraftHack 2022*.
