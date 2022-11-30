@@ -14,22 +14,22 @@
 ### 2022 Season 🥇🌳
   - [**Lool Space**](https://sites.google.com/view/lool-space/)
     - Our concept integrates XR markers into student textbooks. Objects pop up from the book, and students can place them into their memory palaces. It is based on a strategy for memory enhancement called the Method of Loci.
-    - *Augmented Reality in Education Challenge — [*CodeX 2022*](https://www.linkedin.com/company/hack-codex/).*
     - Here you can find the [repository](https://github.com/ausmoons/LoolSpace) and a short youtube [video](https://youtu.be/nJZ_yA2eDYE) explanation.
+    - *Augmented Reality in Education Challenge — [*CodeX*](https://www.linkedin.com/company/hack-codex/).*
   - [**TIER Experiences**](https://crafthack2022.netlify.app/)
     - We expanded the TIER App with a new feature for guided tours.
-    - *TIER Mobility Challenge — CraftHack 2022.*
     - Here is the [repository](https://github.com/LorenFiorini/CraftHack-2022), and the Youtube videos for the [pitch](https://youtu.be/4WlfS5RtbKo) and [demo](https://www.youtube.com/shorts/WRaWOy2rt78).
+    - *TIER Mobility Challenge — CraftHack.*
   - [**Meditation App**](https://lorenfiorini.github.io/meditation_app/)
     - To help Ukrainian refugees be mentally prepared to deal with the issues associated with being displaced. 
-    - *Body & Mind topic — Hack&Heal Hybrid 2022.*
     - You can find the repository [here](https://github.com/LorenFiorini/meditation_app). The Pitch and App Demo are in this [video](https://youtu.be/mVrvba9kJQ8).
+    - *Body & Mind topic — Hack&Heal Hybrid.*
 
 ### 2021 Season 🏆🌱
   - [**AR Helmet**](https://lorenfiorini.github.io/LikeABosch-WebApp/#/)  
     - I proposed the concept of an Augmented Reality Motorcycle Helmet to reduce the mortality of motorcyclists on the road. 
-    - *Hardware Design Challenge — Craft#LikeABosch 2021.*
     - The GitHub repository is [here](https://github.com/LorenFiorini/Craft-LikeABosch), and here is the [video pitch](https://youtu.be/NCZh9Ra49hU).
+    - *Hardware Design Challenge — Craft#LikeABosch.*
   - [**MeetUp**](https://fir-amazing-web-codelab.firebaseapp.com/) — A real-time online ChatRoom with user authentication.
   - [**Shrine**](https://lorenfiorini.github.io/Shrine-WebApp/) — A Web Application that simulates an online retail store.
 
