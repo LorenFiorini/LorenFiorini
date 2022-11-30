@@ -19,17 +19,17 @@
   - [**TIER Experiences**](https://crafthack2022.netlify.app/)
     - We expanded the TIER App with a new feature for guided tours.
     - Here is the [repository](https://github.com/LorenFiorini/CraftHack-2022), and the Youtube videos for the [pitch](https://youtu.be/4WlfS5RtbKo) and [demo](https://www.youtube.com/shorts/WRaWOy2rt78).
-    - *TIER Mobility Challenge — CraftHack.*
+    - *TIER Mobility Challenge — [CraftHack](https://crafthack.crafthub.events/).*
   - [**Meditation App**](https://lorenfiorini.github.io/meditation_app/)
     - To help Ukrainian refugees be mentally prepared to deal with the issues associated with being displaced. 
     - You can find the repository [here](https://github.com/LorenFiorini/meditation_app). The Pitch and App Demo are in this [video](https://youtu.be/mVrvba9kJQ8).
-    - *Body & Mind topic — Hack&Heal Hybrid.*
+    - *Body & Mind topic — [Hack&Heal](https://hacknheal.crafthub.events/).*
 
 ### 2021 Season 🏆🌱
   - [**AR Helmet**](https://lorenfiorini.github.io/LikeABosch-WebApp/#/)  
     - I proposed the concept of an Augmented Reality Motorcycle Helmet to reduce the mortality of motorcyclists on the road. 
     - The GitHub repository is [here](https://github.com/LorenFiorini/Craft-LikeABosch), and here is the [video pitch](https://youtu.be/NCZh9Ra49hU).
-    - *Hardware Design Challenge — Craft#LikeABosch.*
+    - *Hardware Design Challenge — [Craft#LikeABosch](https://www.linkedin.com/company/crafthub/).*
   - [**MeetUp**](https://fir-amazing-web-codelab.firebaseapp.com/) — A real-time online ChatRoom with user authentication.
   - [**Shrine**](https://lorenfiorini.github.io/Shrine-WebApp/) — A Web Application that simulates an online retail store.
 
