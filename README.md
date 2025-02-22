@@ -1,5 +1,8 @@
+# Thank you ☺️
 
-I know how to forgive, but it still annoys me when people doesn't take me seriously because I don't fit their inner mental representation of the concept [Seriousness](https://en.wikipedia.org/wiki/Seriousness)
+I know how to forgive, but it still annoys me when people doesn't take me seriously because I don't fit their inner mental representation of the concept [Seriousness](https://en.wikipedia.org/wiki/Seriousness) 😔
+
+
 
 
 
